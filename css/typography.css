@@ -1,0 +1,406 @@
+nav main {
+	text-align: left;
+}
+
+nav main a {
+  font-size:19px;
+  color: white;
+  font-family: 'myriad pro', sans-serif ;
+  padding-right: 3vw;
+
+}
+
+h1 {
+  font-size: 94px;
+  font-family: 'Big Cuslon', serif ;
+  text-align:center; 
+  color: black;
+  font-weight: normal;
+  margin-top: 20vh;
+  padding-bottom: 2vh;
+}
+
+h2 {
+	font-size: 42px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	font-weight: normal;
+	margin-top: 13vh;
+	padding-left: 20vw;
+	position: absolute;
+
+}
+
+h3 {
+	font-size: 19px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: center;
+	font-weight: normal;
+	text-align: justify;
+	padding-bottom: 3vh;	
+}
+
+h4 {
+	font-size: 25px;
+	color: black;
+	font-family: 'Big Cuslon', serif;
+	text-align: left;
+	font-weight: normal;
+	padding-bottom: 4vh;
+}
+
+h5 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: center;
+	font-weight: normal;
+	font-style: italic;
+}
+
+h6 {
+	font-size: 11.5px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: right;
+	font-weight: normal;
+	font-style: italic;
+}
+
+p {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif ;
+	text-align: left;
+	font-weight: normal;
+}
+
+.isi {
+	font-size: 30px;
+	font-family: big Cuslon, serif;
+}
+
+.caption3 {
+	font-size: 11.5px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: right;
+	font-weight: normal;
+	font-style: italic;
+}
+.body_text1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.quote {
+	font-size: 19.5px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: right;
+	font-weight: normal;
+	font-style: italic;
+}
+
+.quote2 {
+	font-size: 19.5px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: center;
+	font-weight: normal;
+	font-style: italic;
+	padding-bottom: 10vh;
+}
+
+
+.angka1_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka2_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka3_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka4_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka5_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka6_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka7_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka1_2 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka2_2 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka3_2 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+th {
+	font-size: 15pt;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: center;
+	font-style: bold;
+}
+
+td {
+	font-size: 8.8pt;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: center;
+}
+
+@media (max-width: 375px) {
+ nav main a {
+  font-size:19px;
+  color: white;
+  font-family: 'myriad pro', sans-serif ;
+  padding-right: 3vw;
+
+}
+
+
+h1 {
+  font-size: 55px;
+  font-family: 'Big Cuslon', serif ;
+  text-align:left; 
+  color: black;
+  font-weight: normal;
+  margin-top: 12vh;
+  padding-bottom: 2vh;
+}
+
+h2 {
+	font-size: 25px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	font-weight: normal;
+	margin-top: 8vh;
+	padding-left: 0vw;
+	position: absolute;
+
+}
+
+h3 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: center;
+	font-weight: normal;
+	text-align: left;
+	padding-bottom: 3vh;	
+}
+
+h4 {
+	font-size: 19px;
+	color: black;
+	font-family: 'Big Cuslon', sans-serif;
+	text-align: left;
+	font-weight: normal;
+	padding-bottom: 4vh;
+}
+
+h5 {
+	font-size: 11.5px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+	font-style: italic;
+}
+
+h6 {
+	font-size: 11.5px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: center;
+	font-weight: normal;
+	font-style: italic;
+}
+
+p {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.caption3 {
+	font-size: 11.5px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+	font-style: italic;
+}
+.body_text1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.quote {
+	font-size: 19.5px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: center;
+	font-weight: normal;
+	font-style: italic;
+}
+
+.quote2 {
+	font-size: 19.5px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+	font-style: italic;
+	padding-bottom: 10vh;
+}
+
+
+.angka1_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka2_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka3_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka4_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka5_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka6_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka7_1 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka1_2 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka2_2 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+
+.angka3_2 {
+	font-size: 15px;
+	color: black;
+	font-family: 'myriad pro', sans-serif;
+	text-align: left;
+	font-weight: normal;
+}
+}
